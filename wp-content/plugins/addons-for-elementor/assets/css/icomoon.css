@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'lae-icomoon';
   src:
-    url('/https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/addons-for-elementor/assets/css/fonts/lae-icomoon.ttf?maw9cj') format('truetype'),
-    url('/https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/addons-for-elementor/assets/css/fonts/lae-icomoon.woff?maw9cj') format('woff'),
-    url('/https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/addons-for-elementor/assets/css/fonts/lae-icomoon.svg?maw9cj#lae-icomoon') format('svg');
+    url('https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/addons-for-elementor/assets/css/fonts/lae-icomoon.ttf?maw9cj') format('truetype'),
+    url('https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/addons-for-elementor/assets/css/fonts/lae-icomoon.woff?maw9cj') format('woff'),
+    url('https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/addons-for-elementor/assets/css/fonts/lae-icomoon.svg?maw9cj#lae-icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;

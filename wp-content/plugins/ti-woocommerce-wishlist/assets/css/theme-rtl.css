@@ -31,7 +31,7 @@
   -moz-appearance: none;
   appearance: none;
   padding: 7px 10px;
-  background-image: url(/https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/ti-woocommerce-wishlist/assets/img/select_caret_t.png);
+  background-image: url(https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/ti-woocommerce-wishlist/assets/img/select_caret_t.png);
   background-repeat: no-repeat;
   background-position: 4% center;
   background-position: calc(100% - (100% - 15px)) center; }
@@ -454,7 +454,7 @@
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), not all, not all, not all {
   .tinv-wishlist select {
-    background-image: url(/https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/ti-woocommerce-wishlist/assets/img/select_caret_t@2x.png); } }
+    background-image: url(https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/ti-woocommerce-wishlist/assets/img/select_caret_t@2x.png); } }
 
 /*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlcyI6WyJ0aGVtZS1ydGwuY3NzIl0sImZpbGUiOiJ0aGVtZS1ydGwuY3NzIn0= */
 

@@ -9,7 +9,7 @@
 .tinv-wishlist :-moz-placeholder,.tinv-wishlist ::-webkit-input-placeholder{color:#1a1a1a;font-family:Georgia,serif}
 .tinv-wishlist ::-moz-placeholder{color:#1a1a1a;font-family:Georgia,serif;opacity:1}
 .tinv-wishlist :-ms-input-placeholder{color:#1a1a1a;font-family:Georgia,serif}
-.tinv-wishlist select{-webkit-appearance:none;-moz-appearance:none;appearance:none;padding:7px 10px;background-image:url(/https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/ti-woocommerce-wishlist/assets/img/select_caret_t.png);background-repeat:no-repeat;background-position:4% center;background-position:calc(100% - (100% - 15px)) center}
+.tinv-wishlist select{-webkit-appearance:none;-moz-appearance:none;appearance:none;padding:7px 10px;background-image:url(https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/ti-woocommerce-wishlist/assets/img/select_caret_t.png);background-repeat:no-repeat;background-position:4% center;background-position:calc(100% - (100% - 15px)) center}
 .tinv-wishlist button{text-align:center;font-weight:400;letter-spacing:0;line-height:1;text-transform:none;padding:11.5px 19px}
 .tinv-wishlist input[type=button],.tinv-wishlist input[type=reset],.tinv-wishlist input[type=submit]{text-align:center;font-weight:400;letter-spacing:0;line-height:1;text-transform:none;padding:11.5px 19px}
 .tinv-wishlist .button,.tinv-wishlist button{-webkit-box-shadow:none;box-shadow:none;text-transform:none;border:0;-webkit-transition:none;transition:none}
@@ -101,7 +101,7 @@
 .tinv-wishlist select{min-height:38px}
 .tinv-wishlist .tinv-modal .tinv-close-modal,.tinv-wishlist .tinv-modal button.button{color:#515151;background-color:#ebe9eb}
 .tinv-wishlist .tinv-modal .tinv-close-modal:hover,.tinv-wishlist .tinv-modal button.button:hover{color:#515151;background-color:#dad8da}
-@media only screen and (-webkit-min-device-pixel-ratio:1.5),not all,not all,not all{.tinv-wishlist select{background-image:url(/https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/ti-woocommerce-wishlist/assets/img/select_caret_t@2x.png)}
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),not all,not all,not all{.tinv-wishlist select{background-image:url(https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/ti-woocommerce-wishlist/assets/img/select_caret_t@2x.png)}
 }@media only screen and (max-width:1024px) and (min-width:641px){.tinv-wishlist table.tinvwl-table-manage-list td.product-thumbnail{padding-right:10px;padding-left:10px}
 .tinv-wishlist .product-action .button{padding:11.5px 12px !important}
 .tinv-wishlist tfoot .tinvwl-to-left select{width:140px}

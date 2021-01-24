@@ -518,7 +518,7 @@
 
 /* Sleek Carousel Styles */
 .slick-loading .slick-list {
-  background: #fff url("/https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/addons-for-elementor/assets/css/ajax-loader.gif") center center no-repeat; }
+  background: #fff url("https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/plugins/addons-for-elementor/assets/css/ajax-loader.gif") center center no-repeat; }
 
 @media only screen and (max-width: 1024px) {
   .slick-slider {

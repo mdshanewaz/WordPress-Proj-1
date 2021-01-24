@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Books &#8211; My Ecommerce</title>
-	<atom:link href="/https://mdshanewaz.github.io/WordPress-Proj-1/product-category/books/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://mdshanewaz.github.io/WordPress-Proj-1/</link>
+	<atom:link href="https://mdshanewaz.github.io/WordPress-Proj-1/product-category/books/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mdshanewaz.github.io/WordPress-Proj-1/</link>
 	<description>Project</description>
 	<lastBuildDate>Tue, 29 Dec 2020 15:20:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,27 +21,27 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 
 <image>
-	<url>/https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/uploads/2021/01/LogoMakr-6xurIF-100x100.png</url>
+	<url>https://mdshanewaz.github.io/WordPress-Proj-1/wp-content/uploads/2021/01/LogoMakr-6xurIF-100x100.png</url>
 	<title>Books &#8211; My Ecommerce</title>
-	<link>/https://mdshanewaz.github.io/WordPress-Proj-1/</link>
+	<link>https://mdshanewaz.github.io/WordPress-Proj-1/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Rich Dad Poor Dad PDF</title>
-		<link>/https://mdshanewaz.github.io/WordPress-Proj-1/product/rich-dad-poor-dad-pdf/</link>
-					<comments>/https://mdshanewaz.github.io/WordPress-Proj-1/product/rich-dad-poor-dad-pdf/#respond</comments>
+		<link>https://mdshanewaz.github.io/WordPress-Proj-1/product/rich-dad-poor-dad-pdf/</link>
+					<comments>https://mdshanewaz.github.io/WordPress-Proj-1/product/rich-dad-poor-dad-pdf/#respond</comments>
 		
 		<dc:creator><![CDATA[newaz]]></dc:creator>
 		<pubDate>Tue, 29 Dec 2020 15:20:16 +0000</pubDate>
-				<guid isPermaLink="false">/https://mdshanewaz.github.io/WordPress-Proj-1/?post_type=product&#038;p=24</guid>
+				<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress-Proj-1/?post_type=product&#038;p=24</guid>
 
 					<description><![CDATA[The book description is the pitch to the reader about why they should buy your book. It is a sales copy to get them to see that the book is for them (or not) and then make the purchase.]]></description>
 										<content:encoded><![CDATA[<p>The book description is the pitch to the reader about why they should buy your book. It is a sales copy to get them to see that the book is for them (or not) and then make the purchase.</p>
 <p>This isn’t uncommon. In many cases, the description is the factor that solidifies in the reader’s mind whether the book is for them or not. If you get it right, the purchase is almost automatic. If you get it wrong, very little else can really save you (except a recommendation from the right source).</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://mdshanewaz.github.io/WordPress-Proj-1/product/rich-dad-poor-dad-pdf/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mdshanewaz.github.io/WordPress-Proj-1/product/rich-dad-poor-dad-pdf/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
